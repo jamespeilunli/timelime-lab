@@ -4,7 +4,7 @@ APUSH Timeline Lab is a simple browser game for practicing U.S. history chronolo
 
 ![APUSH Timeline Lab screenshot](readme_assets/screenshot.png)
 
-## Impact
+## Purpose
 
 Turns timeline review into active practice, helping students remember event order, context, and cause-and-effect faster than flashcards alone.
 
